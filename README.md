@@ -14,12 +14,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.EVE helps y
 
 ## FEATURES
 
-Displaying shortcuts for the menu items
-Displaying shortcuts for Safari GUI elements (de, en), eg. the back button
-Displaying shortcuts for Mail GUI elements (de, en), eg. reply button
-Displaying shortcuts for Chrome GUI elements (de, en), eg. the back button
-Displaying shortcuts for Finder GUI elements (de, en), 
-Growl support
+* Displaying shortcuts for the menu items
+* Displaying shortcuts for Safari GUI elements (de, en), eg. the back button
+* Displaying shortcuts for Mail GUI elements (de, en), eg. reply button
+* Displaying shortcuts for Chrome GUI elements (de, en), eg. the back button
+* Displaying shortcuts for Finder GUI elements (de, en), 
+* Growl support
 
 ## Coming Up(Collaborators welcome):
 
@@ -38,6 +38,9 @@ If the internal monitor is active, the support for GUI elements doesn't work on 
 ## Legacy
 
 Twitter: @HotkeyEVE
+
 E-Mail:  hotkey.eve@googlemail.com
+
 Google+: Hotkey EVE
+
 Blog:    http://hotkeyeve.blogspot.de/
