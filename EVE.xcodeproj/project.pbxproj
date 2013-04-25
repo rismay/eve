@@ -294,7 +294,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0430;
-				ORGANIZATIONNAME = Sommer;
+				ORGANIZATIONNAME = github;
 			};
 			buildConfigurationList = CD6510D3158903AE0046036E /* Build configuration list for PBXProject "EVE" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -436,7 +436,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
@@ -457,7 +457,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "Mac Developer";
+				CODE_SIGN_IDENTITY = "";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
