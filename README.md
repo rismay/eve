@@ -39,9 +39,9 @@ Google+: Hotkey EVE
 Blog:    http://hotkeyeve.blogspot.de/
 Flattr:  https://flattr.com/thing/757902/HotkeyEVE-on-Flattr
 
-**** LICENSE ****
+LICENSE:
 
- This program is free software: you can redistribute it and/or modify
+    This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
